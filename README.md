@@ -1,4 +1,4 @@
-# query_generaotr_pub
+# query_generator_pub
 
 
 인수님이 시켰어요...
